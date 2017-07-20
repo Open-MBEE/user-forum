@@ -19,7 +19,7 @@ url: http://openmbee.org/user-forum
 exclude: [.gitignore]
 
 # The disqus shortname for your forum
-disqus_shortname: openmbeeforum
+disqus_shortname: openmbee
 
 # The public key for your disqus application
 disqus_publickey: WbO7xQaNhkDreAgqefMcRBFwOoPkNXo05heA1CIFWe7GQoTWCSQGOThSENKd9LJU
