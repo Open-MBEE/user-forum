@@ -2,6 +2,6 @@
 layout: home
 ---
 
-# Jekyll Disqus Forum
+# OpenMBEE Community Forum
 
-A simple forum managed by Jekyll and powered by Disqus. Find out more on [github](http://www.github.com/klcodanr/Jekyll-Disqus-Forum).
+Discussion about models, OpenMBEE and more, powered by Disqus. 
