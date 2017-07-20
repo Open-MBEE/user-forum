@@ -1,11 +1,11 @@
 ---
 layout: category-group
-title: Help
+title: OpenMBEE Help
 category-group: true
-summary: Find what you need help with here!
+summary: Ask Installation Questions Here
 id: help
 ---
 
-# Help
+# Install Help
 
-Get help using Jekyll Disqus Forum.
+Get help using or installing OpenMBEE

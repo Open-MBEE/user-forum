@@ -2,11 +2,11 @@
 layout: category
 title: General Help
 category: true
-summary: Get help with any aspect of the Jekyll Disqus Forum.
-id: 2736939
+summary: Get help with any aspect of OpenMBEE
+id: 7052023
 group-id: help
 ---
 
 # General help
 
-Get help with any aspect of the Jekyll Disqus Forum.
+Not sure what you are asking get help with any aspect of OpenMBEE
