@@ -8,4 +8,4 @@ id: general
 
 # General OpenMBEE Discussion
 
-Talk OpenMBEE or don't we don't mind
+Talk OpenMBEE or don't we won't mind

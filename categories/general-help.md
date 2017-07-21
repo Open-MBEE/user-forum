@@ -9,4 +9,4 @@ group-id: help
 
 # General help
 
-Not sure what you are asking get help with any aspect of OpenMBEE
+Not sure what you are asking? Get help with any aspect of OpenMBEE
